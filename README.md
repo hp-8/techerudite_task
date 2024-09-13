@@ -11,17 +11,17 @@
    npm install
 
 3. Set up environment variables:
-   Create a .env file in the backend directory with the following content:
-   DB_HOST=localhost
-   DB_USER=your_mysql_user
-   DB_PASSWORD=your_mysql_password
-   DB_NAME=your_database_name
-   JWT_SECRET=your_jwt_secret
-   (optional)
-   SMTP_HOST=your_smtp_host
-   SMTP_PORT=your_smtp_port
-   SMTP_USER=your_smtp_user
-   SMTP_PASS=your_smtp_password
+   Create a .env file in the backend directory with the following content: <br/>
+   DB_HOST=localhost <br/>
+   DB_USER=your_mysql_user<br/>
+   DB_PASSWORD=your_mysql_password<br/>
+   DB_NAME=your_database_name<br/>
+   JWT_SECRET=your_jwt_secret<br/>
+   (optional)<br/><br/>
+   SMTP_HOST=your_smtp_host<br/>
+   SMTP_PORT=your_smtp_port<br/>
+   SMTP_USER=your_smtp_user<br/>
+   SMTP_PASS=your_smtp_password<br/>
 
 5. Create the database and tables:
    Run the following SQL command in your MySQL database:
