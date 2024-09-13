@@ -17,7 +17,7 @@
    DB_PASSWORD=your_mysql_password<br/>
    DB_NAME=your_database_name<br/>
    JWT_SECRET=your_jwt_secret<br/>
-   <br/>(optional)<br/><br/>
+   <br/>(optional)<br/>
    SMTP_HOST=your_smtp_host<br/>
    SMTP_PORT=your_smtp_port<br/>
    SMTP_USER=your_smtp_user<br/>
